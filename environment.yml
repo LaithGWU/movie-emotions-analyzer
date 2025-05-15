@@ -14,4 +14,3 @@ dependencies:
     - tensorboard==2.17.0
     - ml-dtypes==0.4.0
     - deepface==0.0.91
-    - https://repo.radeon.com/rocm/manylinux/rocm-rel-6.3.4/tensorflow_rocm-2.17.0-cp312-cp312-manylinux_2_28_x86_64.whl
