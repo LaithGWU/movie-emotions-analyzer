@@ -8,7 +8,7 @@ import shutil
 import tensorflow as tf
 import ffmpeg
 
-TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NWJlN2Q0ZDczNTMzZWJjNzM1ZjcyNjI5NDMzYWI3ZiIsIm5iZiI6MTc0NjQ4OTY1NS4yNzcsInN1YiI6IjY4MTk1MTM3MTBhNGVmYjVkNzkxM2M1ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.yipjr1WyLv3PtB7O6f5eydnAFFDV2wkTJJdIvtnc9cU"
+TMDB_API_KEY = "ENTER YOUR OWN"
 ACTOR_PROFILE_DIR = "actor_profiles"
 FRAME_OUTPUT_DIR = "extracted_frames"
 MATCHED_FACES_DIR = "matched_faces"    
